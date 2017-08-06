@@ -99,3 +99,10 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# cifar dataset
+.gz
+cifar-10-batches-py
+
+# Don´t store pickle files
+.p
